@@ -71,7 +71,6 @@ class LinkedList{
 			
 			new_node->setNext(aux1);
 			
-			size++;
 		}
 		
 		void print(){
